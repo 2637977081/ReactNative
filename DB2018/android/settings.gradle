@@ -1,0 +1,3 @@
+rootProject.name = 'DB2018'
+
+include ':app'
